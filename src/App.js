@@ -9,22 +9,22 @@ const App = () => {
 		{
 			id: nanoid(),
 			text: 'hey this is yash its my first note',
-			date: '21/08/2023',
+			date: '08/21/2023',
 		},
 		{
 			id: nanoid(),
 			text: 'hey this is aditya its my first note ',
-			date: '21/08/2023',
+			date: '08/21/2023',
 		},
 		{
 			id: nanoid(),
 			text: 'hey this is tanmay its my first note',
-			date: '21/08/2023',
+			date: '08/21/2023',
 		},
 		{
 			id: nanoid(),
 			text: 'This is my systumm',
-			date: '22/08/2023',
+			date: '08/22/2023',
 		},
 	]);
 
